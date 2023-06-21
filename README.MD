@@ -35,4 +35,4 @@ El servidor se levantará en el puerto 3000. Puedes acceder a la aplicación en 
 
 ## URL proyecto deploy:
 
-https://poke-dex-react.vercel.app/
+https://project-emily-react.vercel.app/
